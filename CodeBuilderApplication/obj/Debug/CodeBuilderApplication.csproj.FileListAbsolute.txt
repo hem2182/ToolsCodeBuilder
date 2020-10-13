@@ -1,0 +1,10 @@
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\bin\Debug\CodeBuilderApplication.exe.config
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\bin\Debug\CodeBuilderApplication.exe
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\bin\Debug\CodeBuilderApplication.pdb
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\obj\Debug\CodeBuilderApplication.csprojAssemblyReference.cache
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\obj\Debug\CodeBuilderApplication.csproj.CoreCompileInputs.cache
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\obj\Debug\CodeBuilderApplication.exe
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\obj\Debug\CodeBuilderApplication.pdb
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Code\ToolsCodeBuilder\CodeBuilderApplication\obj\Debug\CodeBuilderApplication.csproj.CopyComplete
